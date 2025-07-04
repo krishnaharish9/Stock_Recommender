@@ -1,0 +1,14 @@
+pandas
+requests
+yfinance
+openai
+tradingview-ta
+transformers
+torch
+tensorflow
+streamlit
+python-dotenv
+accelerate
+auto-gptq
+bitsandbytes
+optimum

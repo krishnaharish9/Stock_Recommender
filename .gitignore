@@ -1,0 +1,9 @@
+.env/
+__pycache__/
+*.safetensors
+*.bin
+*.pt
+.cache/
+huggingface/
+.vscode/
+stock_recommender/
